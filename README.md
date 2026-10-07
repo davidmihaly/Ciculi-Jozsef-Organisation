@@ -1,4 +1,21 @@
-The Ciculi Jozsef Organisation is a student organisation created around the beautyful cat Ciculi Jozsef
-With this website we plan to spread the fame of the organisation and make it accessible to new members
+Ciculi Jozsef Organisation Website
 
-Ciculi Jozsef
+A static, multilingual website for Ciculi Jozsef Organisation, built with plain HTML, CSS, and JavaScript and self hosted on a Raspberry Pi. All text is stored in separate JSON files and injected at runtime, making it possible for the site to be available in 3 languages: Hungarian, Romanian and English.
+
+Live site: https://ciculijozsef.com
+
+Features:
+- 3 languages: Hungarian, Romanian and English, switchable without page reload
+- Fully static
+- Self hosted on a Raspberry Pi
+
+Tech Stach:
+- HTML, CSS, JavaScript
+- JSON for all text
+- nginx for serving
+- Raspberry Pi OS on Raspberry Pi
+
+  Project Structure:
+
+  How the Translation Works:
+  
