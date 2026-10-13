@@ -72,7 +72,7 @@ Elements that need translated text are marked in HTML with a data attribute rath
 <li><a href="departments.html" data-i18n="nav.departments"></a></li>
 <li><a href="awards.html" data-i18n="nav.awards"></a></li>
 ```
-
+When pushing one of the language changing buttons it calls the loadLanguage function with the specific language as parameter (hu/ro/en).
 ```js
 async function loadLanguage(lang) {
   const res = await fetch(`lang/${lang}.json`);
