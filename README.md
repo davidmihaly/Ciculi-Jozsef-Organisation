@@ -1,13 +1,10 @@
-C# Ciculi Jozsef Organisation Website
+# Ciculi Jozsef Organisation Website
 
 A static, multilingual website for Ciculi Jozsef Organisation, built with plain HTML, CSS, and JavaScript and self-hosted on a Raspberry Pi. All text is stored in separate JSON files and injected at runtime, making it possible for the site to be available in 3 languages: Hungarian, Romanian and English.
 
 **Live site:** https://ciculijozsef.com
 
-<!-- SCREENSHOT: save an image next to this README (e.g. screenshot.png),
-     then delete the arrows around the line below to show it. -->
-<!-- ![Screenshot of the website](screenshot.png) -->
-
+![Website Screenshot](./ciculi_picture.png)
 ## Features
 
 - 3 languages: Hungarian, Romanian and English, switchable without page reload
