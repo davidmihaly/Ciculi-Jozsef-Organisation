@@ -4,7 +4,7 @@ A static, multilingual website for Ciculi Jozsef Organisation, built with plain 
 
 **Live site:** https://ciculijozsef.com
 
-![Website Screenshot](./ciculi_picture.png)
+![Website Screenshot](ciculi_picture.PNG)
 ## Features
 
 - 3 languages: Hungarian, Romanian and English, switchable without page reload
